@@ -1,5 +1,5 @@
 # Automatic validation and extraction of data from publications in Chemical and Materials Sciences
-Workshop at the Department of Chemistry Sep 18-19 2015
+Workshop at the Department of Chemistry 
 ==============
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
@@ -16,7 +16,7 @@ Workshop at the Department of Chemistry Sep 18-19 2015
 |Training Workshop & Policy Panel Session      | Hackday 
 |9:00 - 18:00                                  | 10:00 - 17:00 
 
-## <img src="http://www.biddlestudios.com/images/twitter_favicon.png" alt="twitter logo" style="width:10px;height:10px"> \#WellcomeTDM
+## <img src="https://pbs.twimg.com/profile_images/610369666524016640/5YJCIni8.jpg"  style="width:10px;height:10px"> [@chemcambridge] (https://twitter.com/chemcambridge)
 Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact@contentmine.org
 
 ### Trainers:
