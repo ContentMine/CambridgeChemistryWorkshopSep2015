@@ -24,6 +24,7 @@ Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact
 - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust)
 - Jenny Molloy [@jenny_molloy](https://twitter.com/jenny_molloy)
 - The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
+- Judith Rommel [@jbr_science] 
 
 ### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md) 
 ##### We would also appreciate your [feedback](https://docs.google.com/forms/d/1nCaM6_sA-clrWDoNzdua5Luxg8bV7dcBMj82pERIIpQ/viewform)
