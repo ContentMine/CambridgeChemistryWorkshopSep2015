@@ -13,10 +13,10 @@ Workshop at the Department of Chemistry
 
 |18 September 2015                             | 19 September 2015 |
 :---------------:                              | :------------:|
-|Training Workshop & Policy Panel Session      | Hackday 
+|Training Workshop & Publisher Panel Session   | Hackday 
 |9:00 - 18:00                                  | 10:00 - 17:00 
 
-## <img src="https://pbs.twimg.com/profile_images/610369666524016640/5YJCIni8.jpg"  style="width:10px;height:10px"> [@chemcambridge] (https://twitter.com/chemcambridge)
+## <img src="https://pbs.twimg.com/profile_images/610369666524016640/5YJCIni8.jpg"  style="width:8px;height:8px"> [@chemcambridge] (https://twitter.com/chemcambridge)
 Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact@contentmine.org
 
 ### Trainers:
@@ -33,10 +33,10 @@ Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact
 ### Workshop Purpose
 
 Ever found that the key data you want is published in a text-based PDF journal? 
-...found yourself manually downloading 100 papers click-by-click?
-...redrawing structures/spectra/graphs so you can recompute/analyze them?
-...retyping data from tables?
-...wishing that a computer can do the really boring discovery and retrieval of the data in the literature?
+* ...found yourself manually downloading 100 papers click-by-click?
+* ...redrawing structures/spectra/graphs so you can recompute/analyze them?
+* ...retyping data from tables?
+* ...wishing that a computer can do the really boring discovery and retrieval of the data in the literature?
 
 We all have. But new approaches are solving it. That's why Content-Mining (aka text-and-data mining, TDM) is one of the most
 exciting areas in scientific data. 
