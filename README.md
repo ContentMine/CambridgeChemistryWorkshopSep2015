@@ -1,10 +1,10 @@
 # Automatic validation and extraction of data from publications in Chemical and Materials Sciences
-Workshop at the Department of Chemistry 
+## Workshop at the Department of Chemistry, University of Cambridge 
+
+# Register [here] (http://www.eventbrite.co.uk/e/contentmine-chemistry-hack-tickets-18534620549) (registration is FREE, places limited to 25 )
 ==============
 
 ![ContentMine logo](https://github.com/ContentMine/ebi_workshop_20141006/raw/master/setup/CM_logo.png)
-
-## Register [here] (http://www.eventbrite.co.uk/e/contentmine-chemistry-hack-tickets-18534620549) (registration is FREE, places limited to 25 )
 
 #### Location: U202, Department of Chemistry, Lensfield Road CB2 1EW
 #### Dates: 18-19 September 2015
