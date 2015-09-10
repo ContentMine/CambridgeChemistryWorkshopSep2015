@@ -30,7 +30,7 @@ and practice and a hands-on introduction.
 The second day will be a project-based hack where small groups will tackle their own communal problems.
 The event is sponsored by the EPSRC-IAA Knowledge Transfer Fund of the Chemistry Department. Facilitators are from Chemistry and Plant Sciences. Coffee, lunches and a Friday dinner are provided. 
 
-Limit 25 people. Please pre-register at https://github.com/ContentMine/CambridgeChemistryWorkshopSep2015; bring laptops, and also be prepared to pre-load software.
+Limit 25 people. Please pre-register at https://github.com/ContentMine/CambridgeChemistryWorkshopSep2015; bring laptops, and also be prepared to pre-load software https://github.com/ContentMine/vms/blob/master/README.md
 Judith Rommel
 Peter Murray-Rust
 [1] all essential technology is Open and from contentmine.org, an Open project funded by the Shuttleworth Foundation.
