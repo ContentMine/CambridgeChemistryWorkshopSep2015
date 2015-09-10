@@ -8,7 +8,7 @@ Workshop at the Department of Chemistry
 
 #### Location: U202, Department of Chemistry, Lensfield Road CB2 1EW
 #### Dates: 18-19 September 2015
-#### Please bring laptops, and pre-load software.
+#### Please bring laptops, and [pre-load software] (https://github.com/ContentMine/vms/blob/master/installation_intructions.md).
 
 
 |18 September 2015                             | 19 September 2015 |
@@ -27,7 +27,7 @@ Contact us via [@TheContentMine] (https://twitter.com/TheContentMine) or contact
 - The ContentMine Team [@TheContentMine] (https://twitter.com/TheContentMine)
 
 
-### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/SciDataCon2014/blob/master/Info/README.md) 
+### Please read the [Pre-workshop Installation Instructions] (https://github.com/ContentMine/vms/blob/master/installation_intructions.md) 
 ##### We would also appreciate your [feedback](https://docs.google.com/forms/d/1nCaM6_sA-clrWDoNzdua5Luxg8bV7dcBMj82pERIIpQ/viewform)
 
 ### Workshop Purpose
