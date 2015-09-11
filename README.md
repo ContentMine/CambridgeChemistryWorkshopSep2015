@@ -71,12 +71,12 @@ Coffee, lunches and a Friday dinner are provided.
 | 9:00      |**Introductions**            |
 | 9:15      |**What is content mining?** <ul><li>Overview presentation from ContentMine staff</li></ul>|
 | 9:30      |**Think like a content miner** <ul><li>Hands-on activity facilitated by ContentMine staff introducing entity extraction techniques, precision and recall.</li></ul>|
-|           |**Scraping and the anatomy of scrapers** <ul><li>Hands-on activity facilitated by ContentMine staff including use of quickscrape and custom scraper development.</li></ul>|
+|           |**Scraping and the anatomy of scrapers** <ul><li>Hands-on activity facilitated by ContentMine staff including use of [quickscrape](https://github.com/ContentMine/workshop-resources/blob/master/software-tutorials/quickscrape/quickscrape-tutorial.md) and [custom scraper development](https://github.com/ContentMine/workshop-resources/blob/master/software-tutorials/journal-scrapers/journal-scrapers-tutorial.md).</li></ul>|
 |11:00      |**Preparations for panel discussion with publishers**|
 |12:30      |**Lunch**|
 |13:30      |**Publishers Q&A**|
 |15:30      |**Tea time**|
-|16:00      |**Entity recognition using AMI** <ul><li>Hands-on activity facilitated by ContentMine staff including extracting species names from OA papers using AMI-species.</li></ul>|
+|16:00      |**Entity recognition using AMI** <ul><li>Hands-on activity facilitated by ContentMine staff including extracting species names from OA papers using [AMI-species](https://github.com/ContentMine/workshop-resources/blob/master/software-tutorials/ami/ami-tutorial.md#ami2-species).</li></ul>|
 |18:00 onwards|**Informal social event (dinner)** <ul><li>Move as a group to nearby pub or late opening cafe (to discuss hackday projects).</li></ul>| 
 Reservation to be confirmed at Browns from 18:00 onwards.  
 
